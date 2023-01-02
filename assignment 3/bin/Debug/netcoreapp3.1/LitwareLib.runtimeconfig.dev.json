@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\GDHOTE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\GDHOTE\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\obj\Debug\netcoreapp3.1\assignment 3.csproj.AssemblyReference.cache
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\obj\Debug\netcoreapp3.1\assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\obj\Debug\netcoreapp3.1\assignment 3.AssemblyInfoInputs.cache
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\obj\Debug\netcoreapp3.1\assignment 3.AssemblyInfo.cs
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\obj\Debug\netcoreapp3.1\assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\bin\Debug\netcoreapp3.1\LitwareLib.deps.json
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\bin\Debug\netcoreapp3.1\LitwareLib.runtimeconfig.json
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\bin\Debug\netcoreapp3.1\LitwareLib.runtimeconfig.dev.json
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\bin\Debug\netcoreapp3.1\LitwareLib.exe
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\bin\Debug\netcoreapp3.1\assignment 3.exe
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\bin\Debug\netcoreapp3.1\assignment 3.deps.json
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\bin\Debug\netcoreapp3.1\assignment 3.runtimeconfig.json
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\bin\Debug\netcoreapp3.1\assignment 3.runtimeconfig.dev.json
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\bin\Debug\netcoreapp3.1\assignment 3.dll
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\bin\Debug\netcoreapp3.1\assignment 3.pdb
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\bin\Debug\netcoreapp3.1\LitwareLib.dll
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\bin\Debug\netcoreapp3.1\LitwareLib.pdb
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\obj\Debug\netcoreapp3.1\assignment 3.csproj.CopyComplete
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\obj\Debug\netcoreapp3.1\assignment 3.dll
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\obj\Debug\netcoreapp3.1\assignment 3.pdb
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 3\obj\Debug\netcoreapp3.1\assignment 3.genruntimeconfig.cache
