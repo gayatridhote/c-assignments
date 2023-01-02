@@ -1,0 +1,14 @@
+C:\Users\GDHOTE\source\repos\oop2assignment\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.csproj.AssemblyReference.cache
+C:\Users\GDHOTE\source\repos\oop2assignment\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GDHOTE\source\repos\oop2assignment\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.AssemblyInfoInputs.cache
+C:\Users\GDHOTE\source\repos\oop2assignment\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.AssemblyInfo.cs
+C:\Users\GDHOTE\source\repos\oop2assignment\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.csproj.CoreCompileInputs.cache
+C:\Users\GDHOTE\source\repos\oop2assignment\LitwareLib\bin\Debug\netcoreapp3.1\LitwareLib.exe
+C:\Users\GDHOTE\source\repos\oop2assignment\LitwareLib\bin\Debug\netcoreapp3.1\LitwareLib.deps.json
+C:\Users\GDHOTE\source\repos\oop2assignment\LitwareLib\bin\Debug\netcoreapp3.1\LitwareLib.runtimeconfig.json
+C:\Users\GDHOTE\source\repos\oop2assignment\LitwareLib\bin\Debug\netcoreapp3.1\LitwareLib.runtimeconfig.dev.json
+C:\Users\GDHOTE\source\repos\oop2assignment\LitwareLib\bin\Debug\netcoreapp3.1\LitwareLib.dll
+C:\Users\GDHOTE\source\repos\oop2assignment\LitwareLib\bin\Debug\netcoreapp3.1\LitwareLib.pdb
+C:\Users\GDHOTE\source\repos\oop2assignment\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.dll
+C:\Users\GDHOTE\source\repos\oop2assignment\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.pdb
+C:\Users\GDHOTE\source\repos\oop2assignment\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.genruntimeconfig.cache
