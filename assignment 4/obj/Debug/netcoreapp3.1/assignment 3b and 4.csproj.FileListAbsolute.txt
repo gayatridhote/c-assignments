@@ -1,0 +1,14 @@
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 4\bin\Debug\netcoreapp3.1\assignment 3b and 4.exe
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 4\bin\Debug\netcoreapp3.1\assignment 3b and 4.deps.json
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 4\bin\Debug\netcoreapp3.1\assignment 3b and 4.runtimeconfig.json
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 4\bin\Debug\netcoreapp3.1\assignment 3b and 4.runtimeconfig.dev.json
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 4\bin\Debug\netcoreapp3.1\assignment 3b and 4.dll
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 4\bin\Debug\netcoreapp3.1\assignment 3b and 4.pdb
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 4\obj\Debug\netcoreapp3.1\assignment 3b and 4.csproj.AssemblyReference.cache
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 4\obj\Debug\netcoreapp3.1\assignment 3b and 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 4\obj\Debug\netcoreapp3.1\assignment 3b and 4.AssemblyInfoInputs.cache
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 4\obj\Debug\netcoreapp3.1\assignment 3b and 4.AssemblyInfo.cs
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 4\obj\Debug\netcoreapp3.1\assignment 3b and 4.csproj.CoreCompileInputs.cache
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 4\obj\Debug\netcoreapp3.1\assignment 3b and 4.dll
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 4\obj\Debug\netcoreapp3.1\assignment 3b and 4.pdb
+C:\Users\GDHOTE\source\repos\oop2assignment\assignment 4\obj\Debug\netcoreapp3.1\assignment 3b and 4.genruntimeconfig.cache
